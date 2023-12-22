@@ -1,10 +1,26 @@
-#especial::first-letter {
-
-    font-weight: 8px;
-    color: brown;
-}
-.fuentes{
-    font-family: Arial, Helvetica, sans-serif;
-            font-size: 8px;
-            color: chartreuse;
-}
+P  {
+    font-size : 12pt;
+    font-family : arial,helvetica;
+    font-weight : normal;
+   }
+   
+   H1  {
+    font-size : 36pt;
+    font-family : verdana,arial black;
+    text-decoration : underline;
+    text-align : center;
+    background-color : rgb(71, 237, 237);
+   }
+   
+   TD  {
+    font-size : 10pt;
+    font-family : verdana,arial;
+    text-align : center;
+    background-color : 666666;
+   }
+   
+   BODY  {
+    background-color : #f7f7f7;
+    font-family : arial;
+    color : rgb(7, 8, 7);
+   }
